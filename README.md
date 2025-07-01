@@ -4,4 +4,4 @@
 
 3 : Kodların diyaznı ve yazılışı 2025 için uyumlu olan DENEYAP IDE ve malzemeler içindir. 
 
-4: Bu kod satırlarında başka indirmeye gerk yoktur.
+4: Bu kod satırlarında başka indirmeye gerek yoktur.
