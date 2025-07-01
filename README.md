@@ -6,4 +6,6 @@
 
 4 : Proje  (GİT HUB) @Nqkram tarafından hazırlnamış ve kullanıcıya sunulmuştur.
 
-5 : Umarım bu proje işinize yarar. 
+5 : Örnek Devre kısmında  bulunan "Voltaj Regülatörü" ve "Bread Bord" kullanıcnın tercihine kalmıştır. Sistemler arası voltaj farkı yoksa Voltaj Regülatörüne , jumperlar dişi + dişi şekildeyse Bread Boarda ihtiyaç yoktur.
+
+
