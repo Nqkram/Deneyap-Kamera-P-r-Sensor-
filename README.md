@@ -4,9 +4,9 @@ Bu projede, Deneyap Kart kullanarak PIR hareket sensörü ve Deneyap Kamera mod�
 
 ## İçerik
 
--  [Devre Şeması ve Açıklaması](devre-aciklama.md)
+-  Devre Şeması ve Açıklaması (`Devre Ve Devre Şeması Açıklaması`  klasöründe.)
 -  Kullanılan Donanımlar
--  Kodlar (`src` klasöründe)
+-  Kodlar (`Kodlar` klasöründe)
 -  Kurulum ve Kullanım
 
 ## Kullanılan Donanımlar
@@ -21,8 +21,8 @@ Bu projede, Deneyap Kart kullanarak PIR hareket sensörü ve Deneyap Kamera mod�
 
 ## Kurulum ve Kullanım
 
-1. Devre şemasını `devre-aciklama.md` dosyasından inceleyin.
-2. Kodları `src` klasörüne yükleyin.
+1. Devre şemasını `Devre Ve Devre Şeması Açıklaması` dosyasından inceleyin.
+2. Kodları `Kodlar` klasöründe ki .txt dosyasından açıp kendi IDE programınıza entegre edebilir veya .INO dosyasıyla aurdinio üzerinden açabilirisniz.
 3. Deneyap Kart'a MicroPython yükleyin.
 4. Bağlantıları yaptıktan sonra uygulamayı çalıştırın.
 
