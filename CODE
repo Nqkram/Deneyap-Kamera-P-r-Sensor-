@@ -1,6 +1,6 @@
 #include <deneyapkartkamera.h> // Deneyap Kamera tanımlanır.
 #define PIR_PIN 2  // PIR Hareket sensörü tanımlanır.
-// Bunları DENEYAP IDE içerisindeki kendi kütüphane indirme bölümündne indirebilirisniz.
+                   // Bunları DENEYAP IDE içerisindeki kendi kütüphane indirme bölümündne indirebilirisniz.
 
 bool hareketVarMi = false; // Sonraki bildirimler için bir sıfır noktası.
 bool cisimVarMi = false;
@@ -36,4 +36,4 @@ void loop() {
     Serial.println("Canlı Göremedim");
   }
 
-  delay(1000);  // İşlem arası 1 sn  bir duraksama. 
+  delay(1000);       // İşlem arası 1 sn  bir duraksama. 
