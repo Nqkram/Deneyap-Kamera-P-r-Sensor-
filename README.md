@@ -1,7 +1,9 @@
-1 : Bu bölümde öncelklikle söylemeliyim kodlar @DENEYAP IDE için yazılmıştır fakat pin diyagramlarını ve kütüphaneyi değiştirip Aurdinio IDE için de düzenleyebilirisiniz. Tek fark bir kameraya sahip olunmaması. 
+1 : Bu proje DENYAP IDE üzerinden PIR Hareket Sensörünü ve Deneyap Kamerayı kullanarak haerketi ve görüntüyü algılanmasını sağlayan bir kamerara hareket kodudur.
 
-2 : Deneyap IDE içerisinde bu kodlar KART 1A içindir.
+2 : Deneyap IDE nin kodları genelde AURDİNİO tabanlıdır fakat pin diyagramları ve kendileri uyumlu değildir. Bu sebepten DENEYAP KART IDE platformuna ve DENEYAP KART 1A ya uyumlu bu kamera ve harekert izleme kodunu sizlere sundum.
 
-3 : Kodların diyaznı ve yazılışı 2025 için uyumlu olan DENEYAP IDE ve malzemeler içindir. 
+3 : Bu projeye DENEYAP KART IDE uygulamasını kullanarak gömülü sisteminizi çalıştırabilir. Veya herhangi bir C++ kod yürütücüsünden düzenleyebilirisiniz.
 
-4: Bu kod satırlarında başka indirmeye gerek yoktur.
+4 : Proje  (GİT HUB) @Nqkram tarafından hazırlnamış ve kullanıcıya sunulmuştur.
+
+5 : Umarım bu proje işinize yarar. 
